@@ -1,6 +1,6 @@
 # _Christine Augustine Portfolio 2020_
 
-#### _Week One | Introduction to Programming Git, HTML and CSS, Styling Text Practice Website, 03.20.2020_
+#### Week One | Introduction to Programming Git, HTML and CSS, Styling Text Practice Website, 03.20.2020
 
 #### By _**Christine Augustine**_
 
@@ -29,7 +29,7 @@ n/a
 
 Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me.
 
-_Christine Augustine's email:_
+Christine Augustine's email:
 _blacchoy@gmail.com_
 
 ## Technologies Used
