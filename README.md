@@ -1,4 +1,4 @@
-# _Christine Augustine Portfolio 2020_
+# _Christine Augustine [Portfolio](https://christinereina.github.io/epicodus-portfolio/) 2020_
 
 #### Week One | Introduction to Programming Git, HTML and CSS, Styling Text Practice Website, 03.20.2020
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-My current portfolio! Learn more about me, see my recent work, and my current interests and hobbies. 
+My current portfolio as of March 2020. Learn more about me and my recent work!
 
 ## Setup/Installation Requirements
 
@@ -15,11 +15,11 @@ Clone my github repository from your computer's Terminal (make sure you are on y
 * cd desktop
 * git clone https://github.com/christinereina/epicodus-portfolio
 
-Open folder and drag the index.html file into your preferred web browser
+Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view my porfolio by clicking _here_
+Alternatively, you can also view my porfolio by clicking [here](https://christinereina.github.io/epicodus-portfolio/)
 
-Lastly, enjoy my porfolio!
+Lastly, enjoy my porfolio :3
 
 ## Known Bugs
 
@@ -27,7 +27,9 @@ n/a
 
 ## Support and contact details
 
-Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me.
+(づ｡◕‿‿◕｡)づ (づ｡◕‿‿◕｡)づ (づ｡◕‿‿◕｡)づ
+
+Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me. 
 
 Christine Augustine's email:
 _blacchoy@gmail.com_
