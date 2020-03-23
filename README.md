@@ -40,6 +40,7 @@ _blacchoy@gmail.com_
 * _Git_
 * _HTML_
 * _CSS_ 
+*_Bootstrap_
 
 ### License
 
